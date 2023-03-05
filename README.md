@@ -24,6 +24,5 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-(C) Blue Eclipse Ltd 2023
+SPDX-License-Identifier: MIT
+SPDX-FileCopyrightText: © 2023 Blue Eclipse Ltd <dan@blueeclipse.co.uk>

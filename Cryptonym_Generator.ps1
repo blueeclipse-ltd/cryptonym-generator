@@ -1,7 +1,5 @@
 <# Crytonym_Generator
 V1.0
-By Daniel Wilkie
-dan@blueeclipse.co.uk
 #>
 $genstamp=Get-Date -Format o
 Write-Output "Generating Cryptonyms from Files ListA.txt and ListB.txt"
@@ -15,3 +13,5 @@ Write-Output "Your Cryptonym for this project is "$cryptonym
 Write-Output "Press Enter To Exit"
 Read-Host
 Exit
+#SPDX-License-Identifier: MIT
+#SPDX-FileCopyrightText: © 2023 Blue Eclipse Ltd <dan@blueeclipse.co.uk>
